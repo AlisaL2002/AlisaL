@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AlisaL/static/css/main.f855e6bc.css",
+    "main.js": "/AlisaL/static/js/main.3c989ff2.js",
+    "static/js/453.227ff6e6.chunk.js": "/AlisaL/static/js/453.227ff6e6.chunk.js",
+    "index.html": "/AlisaL/index.html",
+    "main.f855e6bc.css.map": "/AlisaL/static/css/main.f855e6bc.css.map",
+    "main.3c989ff2.js.map": "/AlisaL/static/js/main.3c989ff2.js.map",
+    "453.227ff6e6.chunk.js.map": "/AlisaL/static/js/453.227ff6e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3c989ff2.js"
+  ]
+}

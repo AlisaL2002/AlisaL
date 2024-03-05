@@ -2,6 +2,7 @@
   "homepage": "http://AlisaL2002.github.io/AlisaL",
   "name": "AlisaL",
   "version": "0.1.0",
+  "main": "App.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
